@@ -37,6 +37,8 @@ const allowedOrigins = [
     'http://localhost:5173',
     'http://localhost:4173',
     'http://192.168.1.17:3000',
+    'https://northern-admin-six.vercel.app',
+    'https://northern-frontend-kappa.vercel.app'
 
 ];
 
