@@ -38,7 +38,15 @@ const allowedOrigins = [
     'http://localhost:4173',
     'http://192.168.1.17:3000',
     'https://northern-admin-six.vercel.app',
-    'https://northern-frontend-kappa.vercel.app'
+    'https://northern-frontend-kappa.vercel.app',
+    'https://www.northerntreasuresmining.com',
+    'https://northerntreasuresmining.com',
+    'https://www.northerntreasuresmining.com',
+    'https://northerntreasuresmining.com',
+    'https://admin.northerntreasuresmining.com',
+    'https://www.admin.northerntreasuresmining.com',
+    'https://admin.northerntreasuresmining.com',
+    'https://www.admin.northerntreasuresmining.com'
 
 ];
 
