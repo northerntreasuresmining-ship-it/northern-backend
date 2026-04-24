@@ -47,7 +47,7 @@ const allowedOrigins = [
     'https://www.admin.northerntreasuresmining.com',
     'https://admin.northerntreasuresmining.com',
     'https://www.admin.northerntreasuresmining.com',
-    'https://northern-admin-cmd2da9w4.vercel.app'
+    'https://northern-admin-cmd2da9w4.vercel.app',
     'https://web.northerntreasuresmining.com'
 
 ];
