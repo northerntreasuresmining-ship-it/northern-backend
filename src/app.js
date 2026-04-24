@@ -39,17 +39,12 @@ const allowedOrigins = [
     'http://192.168.1.17:3000',
     'https://northern-admin-six.vercel.app',
     'https://northern-frontend-kappa.vercel.app',
-    'https://www.northerntreasuresmining.com',
-    'https://northerntreasuresmining.com',
-    'https://www.northerntreasuresmining.com',
-    'https://northerntreasuresmining.com',
-    'https://admin.northerntreasuresmining.com',
-    'https://www.admin.northerntreasuresmining.com',
-    'https://admin.northerntreasuresmining.com',
-    'https://www.admin.northerntreasuresmining.com',
     'https://northern-admin-cmd2da9w4.vercel.app',
+    'https://northerntreasuresmining.com',
+    'https://www.northerntreasuresmining.com',
+    'https://admin.northerntreasuresmining.com',
+    'https://www.admin.northerntreasuresmining.com',
     'https://web.northerntreasuresmining.com'
-
 ];
 
 if (process.env.CLIENT_URL) allowedOrigins.push(process.env.CLIENT_URL);
